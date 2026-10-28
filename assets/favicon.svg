@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Bridgers Tech Hub</title>
+
+  <!-- Deep slate hexagonal badge -->
+  <path d="M32 4 56.25 18V46L32 60 7.75 46V18Z" fill="#0F172A" stroke="#0F172A" stroke-width="6" stroke-linejoin="round"/>
+
+  <!-- Bridge spans -->
+  <path d="M32 32 48.89 22.25M32 32 15.11 22.25M32 32 15.11 41.75M32 32 48.89 41.75" stroke="#FFFFFF" stroke-width="3.4" stroke-linecap="round"/>
+
+  <!-- Hub core -->
+  <path d="M32 21.5 41.1 26.75V37.25L32 42.5 22.9 37.25V26.75Z" fill="#0891B2" stroke="#0F172A" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M32 27.6 35.8 29.8V34.2L32 36.4 28.2 34.2V29.8Z" fill="#F97316"/>
+
+  <!-- Bridge nodes -->
+  <g fill="#F97316">
+    <path d="M48.89 17.05 53.39 19.65V24.85L48.89 27.45 44.39 24.85V19.65Z"/>
+    <path d="M15.11 17.05 19.61 19.65V24.85L15.11 27.45 10.61 24.85V19.65Z"/>
+    <path d="M15.11 36.55 19.61 39.15V44.35L15.11 46.95 10.61 44.35V39.15Z"/>
+    <path d="M48.89 36.55 53.39 39.15V44.35L48.89 46.95 44.39 44.35V39.15Z"/>
+  </g>
+</svg>
